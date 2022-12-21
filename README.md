@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/mohitd427/mohitd427.github.io)
 
-- 🌱 I’m currently learning **Redux Libraries**
+- 🌱 I’m currently learning **BACKEND TECHNOLOGY**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohitd427/mohitd427.github.io](https://github.com/mohitd427/mohitd427.github.io)
 
-- 💬 Ask me about **React, JavaScript, HTML CSS**
+- 💬 Ask me about **React, Redux, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mohitofficial045@gmail.com**
 
