@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/mohitd427/mohitd427.github.io)
 
-- 🌱 I’m currently learning **BACKEND TECHNOLOGY**
+- 🌱 I’m currently learning **ASP.Net Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohitd427/mohitd427.github.io](https://github.com/mohitd427/mohitd427.github.io)
 
