@@ -1,9 +1,12 @@
+
+![giphy](https://github.com/mohitd427/mohitd427/assets/107741808/343fc0d4-ec6a-44f5-963d-74367332c77a)
+
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">Aspiring Full stack Web Developer</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/mohitd427/mohitd427.github.io)
 
-- 🌱 I’m currently learning **ASP.Net Framework**
+- 🌱 I’m currently learning **ASP.Net CORE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohitd427/mohitd427.github.io](https://github.com/mohitd427/mohitd427.github.io)
 
