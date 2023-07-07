@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">Aspiring Full stack Web Developer</h3>
-![giphy](https://github.com/mohitd427/mohitd427/assets/107741808/343fc0d4-ec6a-44f5-963d-74367332c77a)
-
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 - 🔭 I’m currently working on [Portfolio](https://github.com/mohitd427/mohitd427.github.io)
 
 - 🌱 I’m currently learning **ASP.Net CORE**
