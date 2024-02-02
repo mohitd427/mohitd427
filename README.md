@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">Aspiring Full stack Web Developer</h3>
+<h3 align="center"> Full stack Web Developer || .Net Developer</h3>
 
 ![giphy (1)](https://github.com/mohitd427/mohitd427/assets/107741808/44dc7a41-d17f-4349-b3dc-7f5eec056cd0)
 
